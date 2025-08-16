@@ -1,4 +1,8 @@
 # Credit-Risk-Analysis
+
+you can check presentation on youtube as well:
+https://www.youtube.com/watch?v=1Ton2yYLHFg&t=305s
+
 ✅ Key Topics Covered:
 
 Dataset overview and data modeling
